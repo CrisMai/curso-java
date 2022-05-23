@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 // Calcular o IMC
 
 import javax.swing.JOptionPane;

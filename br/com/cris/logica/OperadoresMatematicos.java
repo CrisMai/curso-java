@@ -1,16 +1,17 @@
+package br.com.cris.logica;
 
 public class OperadoresMatematicos {
 	
 	public static void main (String[] args) {
 		
-		double x = 7 % 3;
-		System.out.println(x);
+		//double x = 7 % 3;
+		//System.out.println(x);
 		
 		int x = 6;
 		int y = ++x; //pré-incremento
 		
-		int x = 6;
-		int y = x++; //pós-incremento
+		//int x = 6;
+		//int y = x++; //pós-incremento
 		
 		
 		System.out.println("x=" + x);

@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 
 //Desafio Fibonacci
 

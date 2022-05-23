@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 
 public class OperComparacao {
 	
@@ -20,3 +21,4 @@ public class OperComparacao {
 >= maior ou igual
 <= menor oi igual
 instanceof compara tipos
+*/

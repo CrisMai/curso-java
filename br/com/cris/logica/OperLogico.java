@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 
 public class OperLogico {
 	
@@ -7,7 +8,7 @@ public class OperLogico {
 		
 		System.out.println((x >= 1) && (x <= 10));
 		System.out.println((x >= 1) || (x <= 5));	
-		System.out.println( !(x >= 1);
+		System.out.println( !(x >= 1));
 		
 	}
 

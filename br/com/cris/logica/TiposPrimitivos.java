@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 
 // Apresentar os tipos primitivos de variáveis
 

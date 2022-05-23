@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -14,7 +15,7 @@ public class FluxoWhile {
 		
 		String produto;
 		
-		while(! "FIM".equals (produto = s.nextLine())) {
+		while(!"FIM".equals(produto = s.nextLine())) {
 			produtos.add(produto);
 		}
 		

@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 import java.util.ArrayList;
 
 public class ArrayListSimples {

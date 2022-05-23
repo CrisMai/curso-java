@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 
 public class FluxoFor {
 	

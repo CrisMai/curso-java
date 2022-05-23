@@ -1,3 +1,4 @@
+package br.com.cris.logica;
 /**Programa que imprime texto na tela.
  * @author Cris Mai
  */
