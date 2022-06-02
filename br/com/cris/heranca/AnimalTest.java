@@ -10,6 +10,9 @@ public class AnimalTest {
 		
 		Galinha carijo = new Galinha();
 		carijo.fazerBarulho();
+		
+		System.out.println(toto instanceof Cachorro);
+		System.out.println(toto instanceof Animal );
 
 	}
 
@@ -29,5 +32,8 @@ public class AnimalTest {
 está herdando atributos e métodos da superclasse, ou seja,
 pode utilizar esses atributos como se fossem aplicados
 dentro dela.
+
+Para verificar o tipo de uma classe usa o operador
+instanceof.
 
  */

@@ -1,6 +1,11 @@
 package br.com.cris.heranca;
 
 public class Cachorro extends Animal {
+	
+	public Cachorro() {
+		
+		super(30, "Carne");
+	}
 
 }
 
