@@ -3,7 +3,7 @@ package br.com.cris.colecao;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class ClecaoQueue {
+public class ColecaoQueue {
 	
 	public static void main(String[] args) {
 		
