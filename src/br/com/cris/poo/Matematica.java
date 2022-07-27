@@ -2,7 +2,7 @@ package br.com.cris.poo;
 
 public class Matematica {
 	
-	int maior(int um, int dois) { //método com retorno e com 2 parâmetros
+	public int maior(int um, int dois) { //método com retorno e com 2 parâmetros
 		if(um > dois) {
 			return um;
 		}
