@@ -19,7 +19,7 @@ public class AcessoBanco {
 
 			ResultSet rs = pstm.executeQuery();
 			while (rs.next()) {
-				System.out.println("Nome: " + rs.getString("nome") + " \nggEmail: " + rs.getString("email"));
+				System.out.println("Nome: " + rs.getString("nome") + " \nEmail: " + rs.getString("email"));
 			}
 			rs.close();
 			pstm.close();
